@@ -1,0 +1,25 @@
+.navbar .nav-link {
+  transition: 0.3s;
+}
+
+.navbar .nav-link:hover {
+  color: #c9a86a !important;
+}
+
+.estilo1 {
+    font-family: sans-serif
+    
+}
+
+.rojo{
+    background-color: red;
+}
+
+.azul{
+    background-color: blue;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}

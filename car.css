@@ -1,0 +1,75 @@
+
+.contenedor-contacto {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 30px;
+    margin-top: 30px;
+    flex-wrap: wrap;
+}
+
+.contacto-pro {
+    background-color: #34200f;
+    color: white;
+    padding: 50px 30px;
+    text-align: center;
+}
+
+.contacto-pro h2 {
+    color: #d0b562;
+    margin-bottom: 10px;
+}
+
+.subtexto {
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+
+.formulario {
+    width: 45%;
+    min-width: 280px;
+}
+
+.formulario input,
+.formulario textarea {
+    width: 100%;
+    margin-bottom: 12px;
+    padding: 10px;
+    border: none;
+}
+
+.formulario textarea {
+    height: 100px;
+    resize: none;
+}
+
+.formulario button {
+    background-color: #d0b562;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.info-contacto {
+    width: 45%;
+    min-width: 280px;
+    text-align: left;
+}
+
+.info-contacto img {
+    width: 120px;
+    margin-bottom: 15px;
+}
+
+.info-contacto p {
+    margin: 5px 0;
+}
+
+.estamos-para-ayudarte {
+    margin-top: 15px;
+    color: #d0b562;
+}
+
